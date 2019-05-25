@@ -1,4 +1,4 @@
-#Scripts for work better
+# Scripts for work better
 
 ## auto setup some tools listed as following
 1. tmux
